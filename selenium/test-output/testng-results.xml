@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-28T12:53:58Z" name="Default suite" finished-at="2019-04-28T12:53:58Z" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2019-04-28T12:53:58Z" name="Default test" finished-at="2019-04-28T12:53:58Z" duration-ms="40">
+      <class name="com.Test.TestNgBasics">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Test.TestNgBasics@79d8407f]" started-at="2019-04-28T12:53:58Z" name="setup" finished-at="2019-04-28T12:53:58Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.Test.TestNgBasics@79d8407f]" started-at="2019-04-28T12:53:58Z" name="launchBrowser" finished-at="2019-04-28T12:53:58Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.Test.TestNgBasics@79d8407f]" started-at="2019-04-28T12:53:58Z" name="login" finished-at="2019-04-28T12:53:58Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="googleTitleTest()[pri:0, instance:com.Test.TestNgBasics@79d8407f]" started-at="2019-04-28T12:53:58Z" name="googleTitleTest" finished-at="2019-04-28T12:53:58Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method is-config="true" signature="EnterURL()[pri:0, instance:com.Test.TestNgBasics@79d8407f]" started-at="2019-04-28T12:53:58Z" name="EnterURL" finished-at="2019-04-28T12:53:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterURL -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.Test.TestNgBasics@79d8407f]" started-at="2019-04-28T12:53:58Z" name="logout" finished-at="2019-04-28T12:53:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="searchTest()[pri:0, instance:com.Test.TestNgBasics@79d8407f]" started-at="2019-04-28T12:53:58Z" name="searchTest" finished-at="2019-04-28T12:53:58Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="EnterURL()[pri:0, instance:com.Test.TestNgBasics@79d8407f]" started-at="2019-04-28T12:53:58Z" name="EnterURL" finished-at="2019-04-28T12:53:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterURL -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.Test.TestNgBasics@79d8407f]" started-at="2019-04-28T12:53:58Z" name="logout" finished-at="2019-04-28T12:53:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.Test.TestNgBasics@79d8407f]" started-at="2019-04-28T12:53:58Z" name="CloseBrowser" finished-at="2019-04-28T12:53:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="deleteAllCookies()[pri:0, instance:com.Test.TestNgBasics@79d8407f]" started-at="2019-04-28T12:53:58Z" name="deleteAllCookies" finished-at="2019-04-28T12:53:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+      </class> <!-- com.Test.TestNgBasics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

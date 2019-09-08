@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name= "TestNg Session Test Automation Suite" >
+
+   <test name= "Different testing TestNg feature Test">
+   
+   <classes>
+   <class name = "com.Test.AssertUses" />
+   <class name = "com.Test.ExceptionTimeOutTest"/>
+   <class name = "com.Test.GoogleTest"/>
+   <class name = "com.Test.InvocationCountTest"/>
+   <class name = "com.Test.TestNgBasics"/>
+   <class name = "com.Test.TestNgdependsOnMethodsTest"/>
+   
+   </classes>
+   
+   </test>
+   
+   </suite>
